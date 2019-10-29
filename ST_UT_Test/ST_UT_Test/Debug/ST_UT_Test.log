@@ -1,0 +1,4 @@
+﻿  LinkedList.cpp
+c:\users\morabu\source\thanhdt\repos\st_ut_test\st_ut_test\linkedlist.cpp(36): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'<unnamed-enum-ENUM_HEAD_POS>' の左辺を無視します。
+c:\users\morabu\source\thanhdt\repos\st_ut_test\st_ut_test\linkedlist.cpp(51): warning C4101: 'lkl': ローカル変数は 1 度も使われていません。
+  ST_UT_Test.vcxproj -> C:\Users\morabu\source\ThanhDT\repos\ST_UT_Test\Debug\ST_UT_Test.exe
